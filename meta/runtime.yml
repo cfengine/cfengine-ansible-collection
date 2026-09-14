@@ -1,0 +1,5 @@
+---
+# Galaxy serves content only to ansible-core 2.13.9 and newer, so that is the
+# lowest version that can install this collection from Galaxy. Nothing in the
+# collection requires anything newer.
+requires_ansible: '>=2.13.9'
