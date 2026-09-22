@@ -41,16 +41,16 @@ tags: ['cfengine']
 dependencies: {}
 
 # The URL of the originating SCM repository
-repository: https://gitlab.com/Northern.tech/CFEngine/cfengine-ansible-collection
+repository: https://github.com/cfengine/cfengine-ansible-collection
 
 # The URL to any online docs
-documentation: https://gitlab.com/Northern.tech/CFEngine/cfengine-ansible-collection
+documentation: https://github.com/cfengine/cfengine-ansible-collection
 
 # The URL to the homepage of the collection/project
-homepage: https://gitlab.com/Northern.tech/CFEngine/cfengine-ansible-collection
+homepage: https://cfengine.com
 
 # The URL to the collection issue tracker
-issues: https://gitlab.com/Northern.tech/CFEngine/cfengine-ansible-collection/-/issues
+issues: https://github.com/cfengine/cfengine-ansible-collection/issues
 
 # A list of file glob-like patterns used to filter any files or directories that should not be
 # included in the build artifact. The paths are relative to the root of the collection
